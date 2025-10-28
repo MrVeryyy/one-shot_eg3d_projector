@@ -12,6 +12,17 @@ this version allows users to simply place **one input photo** in a designated fo
 to perform the entire pipeline — face alignment, latent inversion (e4e), EG3D rendering, and PTI fine-tuning — 
 all in one shot.
 
-## 💡 Requirements
+## 🛠️ Requirements
 The env setup please follow [EG3D requirements](https://github.com/NVlabs/eg3d?tab=readme-ov-file#requirements).
 
+## 🎬 Demo Results
+
+Below are example outputs generated using **One-Shot EG3D Projector**  
+(from a single 2D input image):
+
+<p align="center">
+  <img src="./sample/demo_1.gif" width="45%" />
+  <img src="./sample/demo_2.gif" width="45%" />
+</p>
+
+## 🚀 Quick Start
