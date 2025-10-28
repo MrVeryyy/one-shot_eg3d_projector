@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -207,6 +208,10 @@ marimo/_lsp/
 __marimo__/
 
 # One-Shot EG3D Projector
+# eg3d
 eg3d/networks/
 eg3d/out/
 eg3d/projector_out/
+
+# pti
+eg3d/projector/PTI/checkpoints/
