@@ -215,3 +215,5 @@ eg3d/projector_out/
 
 # pti
 eg3d/projector/PTI/checkpoints/
+eg3d/networks/
+eg3d/projector/PTI/checkpoints/
